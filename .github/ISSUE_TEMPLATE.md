@@ -1,29 +1,29 @@
-<!-- BEFORE YOU START / 请先读我
+﻿<!-- BEFORE YOU START / 请先读我
 
-SwitchyOmegaYA is an open source project for proxy configuration. We cannot help
+SwitchyOmegaReact is an open source project for proxy configuration. We cannot help
 you troubleshoot any proxy servers, proxy server software, or your network.
-We do not know how to make SwitchyOmegaYA work with Software X or Company Y's Network.
+We do not know how to make SwitchyOmegaReact work with Software X or Company Y's Network.
 Please contact your network administrator or read the server manual.
 
-Please read the FAQ first: https://github.com/swordow/SwitchyOmegaYA/wiki/FAQ
-And then search the issue list: https://github.com/swordow/SwitchyOmegaYA/issues
+Please read the FAQ first: https://github.com/swordow/SwitchyOmegaReact/wiki/FAQ
+And then search the issue list: https://github.com/swordow/SwitchyOmegaReact/issues
 Then, feel free to delete this whole section and move on.
 
 ----
 
-SwitchyOmegaYA 是一个开源项目，用于代理设置。SwitchyOmega 不是翻墙软件。我们无法
+SwitchyOmegaReact 是一个开源项目，用于代理设置。SwitchyOmegaReact 不是翻墙软件。我们无法
 帮您分析代理服务器、代理软件、您所在地点的网络问题等。我们不知道怎样才能让
-SwitchyOmegaYA 和某某软件（例如翻墙软件）一起工作，也不知道某公司、某地区的网络
+SwitchyOmegaReact 和某某软件（例如翻墙软件）一起工作，也不知道某公司、某地区的网络
 应该怎么设置代理。这些问题请联系您的网络管理员或者阅读代理服务器文档。
 
-（这里只进行 SwitchyOmegaYA 项目开发、功能、故障有关的讨论，不是论坛或者问答社区。）
+（这里只进行 SwitchyOmegaReact 项目开发、功能、故障有关的讨论，不是论坛或者问答社区。）
 
-请先阅读常见问题： https://github.com/swordow/SwitchyOmegaYA/wiki/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98
-然后再搜索下现有的 Issue 列表： https://github.com/swordow/SwitchyOmegaYA/issues
+请先阅读常见问题： https://github.com/swordow/SwitchyOmegaReact/wiki/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98
+然后再搜索下现有的 Issue 列表： https://github.com/swordow/SwitchyOmegaReact/issues
 
 CLEAR ABOVE AFTER READ / 阅读后可删除以上内容 -->
 
-### SwitchyOmegaYA version / SwitchyOmegaYA 版本
+### SwitchyOmegaReact version / SwitchyOmegaReact 版本
 
 
 ### Browser version & OS version / 浏览器名称、版本及操作系统版本

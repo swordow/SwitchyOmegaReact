@@ -1,9 +1,9 @@
-SwitchyOmegaYA
+SwitchyOmegaReact
 ============
 
-SwitchyOmegaYa is developed based on [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega)(which is no longer maintained) and [ZeroOmega](https://github.com/zero-peak/ZeroOmega)(which is based on SwitchyOmega too).  
-SwitchyOmegaYa updates [SwitchOmega](https://github.com/FelisCatus/SwitchyOmega) with chrome mainifest v3 (Most modification comes from [ZeroOmega](https://github.com/zero-peak/ZeroOmega)).  
-SwitchyOmegeYa will not add new features and just make it work stable.
+SwitchyOmegaReact is developed based on [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega)(which is no longer maintained) and [ZeroOmega](https://github.com/zero-peak/ZeroOmega)(which is based on SwitchyOmega too).  
+SwitchyOmegaReact updates [SwitchOmega](https://github.com/FelisCatus/SwitchyOmega) with chrome mainifest v3 (Most modification comes from [ZeroOmega](https://github.com/zero-peak/ZeroOmega)).  
+SwitchyOmegaReact will not add new features and just make it work stable.
 
 Manage and switch between multiple proxies quickly & easily.
 
@@ -13,7 +13,7 @@ Chromium Extension
 ------------------
 The project is now in development.
 
-Please [report issues on the issue tracker.](https://github.com/swordow/SwitchyOmegaYA/issues)
+Please [report issues on the issue tracker.](https://github.com/swordow/SwitchyOmegaReact/issues)
 
 Development status
 ------------------
@@ -72,7 +72,7 @@ below.
 
 ## Building the project
 
-SwitchyOmegaYA has migrated to use npm and grunt for building. Please note that
+SwitchyOmegaReact has migrated to use npm and grunt for building. Please note that
 npm 2.x is required for this project.
 
 To build the project:
@@ -99,31 +99,31 @@ License
 -------
 ![GPLv3](https://www.gnu.org/graphics/gplv3-127x51.png)
 
-SwitchyOmegaYA is licensed under [GNU General Public License](https://www.gnu.org/licenses/gpl.html) Version 3 or later.
+SwitchyOmegaReact is licensed under [GNU General Public License](https://www.gnu.org/licenses/gpl.html) Version 3 or later.
 
-SwitchyOmegaYA is free software: you can redistribute it and/or modify
+SwitchyOmegaReact is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
 
-SwitchyOmegaYA is distributed in the hope that it will be useful,
+SwitchyOmegaReact is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
-along with SwitchyOmegaYA.  If not, see <http://www.gnu.org/licenses/>.
+along with SwitchyOmegaReact.  If not, see <http://www.gnu.org/licenses/>.
 
 Notice
 ------
 
-SwitchyOmegaYA currently does not have a dedicated project homepage. `switchyomegaya.com` and similar webites are NOT affiliated with the SwitchyOmegaYA project in any way, nor are they maintained by SwitchyOmegaYA project members. Please refer to this Github repository and wiki for official information.
+SwitchyOmegaReact currently does not have a dedicated project homepage. `switchyomegareact.com` and similar webites are NOT affiliated with the SwitchyOmegaReact project in any way, nor are they maintained by SwitchyOmegaReact project members. Please refer to this Github repository and wiki for official information.
 
-SwitchyOmegaYA is not cooperating with any proxy providers, VPN providers or ISPs at the moment. No advertisement is displayed in SwitchyOmegaYA project or software. Proxy providers are welcome to recommend SwitchyOmegaYA as part of the solution in tutorials, but it must be made clear that SwitchyOmegaYA is an independent project, is not affiliated with the provider and therefore cannot provide any support on network connections or proxy technology.
+SwitchyOmegaReact is not cooperating with any proxy providers, VPN providers or ISPs at the moment. No advertisement is displayed in SwitchyOmegaReact project or software. Proxy providers are welcome to recommend SwitchyOmegaReact as part of the solution in tutorials, but it must be made clear that SwitchyOmegaReact is an independent project, is not affiliated with the provider and therefore cannot provide any support on network connections or proxy technology.
 
 重要声明
 --------
 
-SwitchyOmegaYA 目前没有专门的项目主页。 `switchyomegaya.com` 等网站与 SwitchyOmegaYA 项目并无任何关联，也并非由 SwitchyOmegaYA 项目成员维护。一切信息请以 Github 上的项目和 wiki 为准。
+SwitchyOmegaReact 目前没有专门的项目主页。 `switchyomegareact.com` 等网站与 SwitchyOmegaReact 项目并无任何关联，也并非由 SwitchyOmegaReact 项目成员维护。一切信息请以 Github 上的项目和 wiki 为准。
 
-SwitchyOmegaYA 目前未与任何代理提供商、VPN提供商或 ISP 达成任何合作协议，项目或软件中不包含任何此类广告。欢迎代理提供商在教程或说明中推荐 SwitchyOmegaYA ，但请明确说明此软件是独立项目，与代理提供商无关，且不提供任何关于网络连接或代理技术的支持。
+SwitchyOmegaReact 目前未与任何代理提供商、VPN提供商或 ISP 达成任何合作协议，项目或软件中不包含任何此类广告。欢迎代理提供商在教程或说明中推荐 SwitchyOmegaReact ，但请明确说明此软件是独立项目，与代理提供商无关，且不提供任何关于网络连接或代理技术的支持。

@@ -1,6 +1,6 @@
 {
   "name": "omega-target",
-  "version": "0.0.1",
+  "version": "5.0.0",
   "private": true,
   "main": "./index.js",
   "devDependencies": {

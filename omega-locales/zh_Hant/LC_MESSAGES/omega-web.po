@@ -1,6 +1,6 @@
-msgid ""
+﻿msgid ""
 msgstr ""
-"Project-Id-Version: SwitchyOmega 2.3.3\n"
+"Project-Id-Version: SwitchyOmegaReact 2.3.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-13 10:29+0000\n"
 "PO-Revision-Date: 2022-04-22 05:07+0000\n"
@@ -15,10 +15,10 @@ msgstr ""
 "X-Generator: Weblate 4.12-dev\n"
 
 msgid "appNameShort"
-msgstr "SwitchyOmegaYA"
+msgstr "SwitchyOmegaReact"
 
 msgid "manifest_app_name"
-msgstr "Proxy SwitchyOmegaYA"
+msgstr "Proxy SwitchyOmegaReact"
 
 msgid "manifest_app_description"
 msgstr "輕鬆快速地管理及切換多個 Proxy 設定。"
@@ -175,7 +175,7 @@ msgid "inputClear_restore"
 msgstr "還原"
 
 msgid "options_title"
-msgstr "SwitchyOmega 選項"
+msgstr "SwitchyOmegaReact 選項"
 
 msgid "options_experimental_badge"
 msgstr "α"

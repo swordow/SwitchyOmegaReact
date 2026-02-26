@@ -25,7 +25,7 @@ window.OmegaDebug =
     chrome.storage.local.clear()
     chrome.runtime.reload()
   reportIssue: ->
-    url = 'https://github.com/FelisCatus/SwitchyOmega/issues/new?title=&body='
+    url = 'https://github.com/swordow/SwitchyOmegaReact/issues/new?title=&body='
     finalUrl = url
     try
       projectVersion = OmegaDebug.getProjectVersion()
@@ -40,7 +40,7 @@ window.OmegaDebug =
       body ||= """
         \n\n
         <!-- Please write your comment ABOVE this line. -->
-        SwitchyOmega #{env.projectVersion}
+        SwitchyOmegaReact #{env.projectVersion}
         #{env.userAgent}
       """
       finalUrl = url + encodeURIComponent(body)

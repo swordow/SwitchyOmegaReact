@@ -1,6 +1,6 @@
 {
   "name": "omega-web",
-  "version": "0.0.1",
+  "version": "5.0.0",
   "private": true,
   "devDependencies": {
     "chai": "~1.9.1",
